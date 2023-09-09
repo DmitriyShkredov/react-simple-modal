@@ -1,0 +1,23 @@
+.main {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  padding: 3.125rem 1.25rem;
+}
+
+.modal-show-button {
+  width: 150px;
+  height: 50px;
+  border-radius: 0.4375rem;
+  background-color: #1851e0;
+  font-size: 18px;
+  color: #ffffff;
+}
