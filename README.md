@@ -1,8 +1,8 @@
-# React-modal
+# React-simple-modal
 
-### `Demo:` https://dmitriyshkredov.github.io/react-modal/
+### `Demo:` https://dmitriyshkredov.github.io/react-simple-modal/
 
-### `git clone https://github.com/DmitriyShkredov/react-modal.git`
+### `git clone https://github.com/DmitriyShkredov/react-simple-modal.git`
 
 ### `npm install`
 
