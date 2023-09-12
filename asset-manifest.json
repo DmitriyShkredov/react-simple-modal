@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-simple-modal/static/css/main.838b5f1e.css",
-    "main.js": "/react-simple-modal/static/js/main.f0678911.js",
+    "main.css": "/react-simple-modal/static/css/main.00aca566.css",
+    "main.js": "/react-simple-modal/static/js/main.95afb2fc.js",
     "index.html": "/react-simple-modal/index.html",
     "static/media/icon-close.svg": "/react-simple-modal/static/media/icon-close.5b9ea5f1699e84643e816ec510d04c2a.svg",
-    "main.838b5f1e.css.map": "/react-simple-modal/static/css/main.838b5f1e.css.map",
-    "main.f0678911.js.map": "/react-simple-modal/static/js/main.f0678911.js.map"
+    "main.00aca566.css.map": "/react-simple-modal/static/css/main.00aca566.css.map",
+    "main.95afb2fc.js.map": "/react-simple-modal/static/js/main.95afb2fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.838b5f1e.css",
-    "static/js/main.f0678911.js"
+    "static/css/main.00aca566.css",
+    "static/js/main.95afb2fc.js"
   ]
 }
