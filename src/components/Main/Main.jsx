@@ -33,58 +33,52 @@ export const Main = () => {
           isOpen={modalInfoIsOpen}
           onClose={() => setModalInfoOpen(false)}
         >
-          <>
-            <h2>Modal Info</h2>
-            <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam nisi
-              esse soluta eos eum maiores delectus officia recusandae fugiat
-              suscipit hic, nostrum aspernatur? Reprehenderit, illo?
-            </p>
-          </>
+          <h2>Modal Info</h2>
+          <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo,
+            dolorum dolore vero eligendi cum iusto ea quam perspiciatis
+            veritatis rem cupiditate a in, aliquam pariatur.
+          </p>
         </SimpleModal>
 
         <SimpleModal
           isOpen={modalAboutIsOpen}
           onClose={() => setModalAboutOpen(false)}
         >
-          <>
-            <h2>Modal About</h2>
-            <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui,
-              mollitia fuga. Libero dolor totam labore?
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Distinctio, quasi voluptatibus? Eum itaque nemo distinctio
-              laudantium dolores.
-            </p>
-          </>
+          <h2>Modal About</h2>
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ducimus
+            placeat commodi distinctio sunt nesciunt quia provident repudiandae
+            totam laudantium vel maiores rerum cupiditate, hic repellat error
+            odio itaque ratione blanditiis? Dolorum excepturi quibusdam repellat
+            illum, recusandae consectetur veniam velit minima, totam assumenda
+            dignissimos iure illo obcaecati consequatur maiores. Molestiae, ut.
+          </p>
         </SimpleModal>
 
         <SimpleModal
           isOpen={modalDataIsOpen}
           onClose={() => setModalDataOpen(false)}
         >
-          <>
-            <h2>Modal About</h2>
-            <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam
-              saepe dolores dolorum fugiat facere alias ipsa odio cumque, velit
-              nesciunt corrupti natus? Architecto vitae praesentium, iste
-              tempora quos repellat assumenda quibusdam rem fugiat est veniam
-              culpa ad corrupti neque odit itaque enim porro, quaerat maxime
-              quod et beatae nostrum! Nesciunt.
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptates tenetur itaque voluptatem nostrum ad perspiciatis in
-              natus, beatae aperiam, nisi autem! Eum aspernatur dolores dolorem
-              deserunt, cupiditate recusandae voluptates dignissimos mollitia.
-              Quibusdam adipisci repellendus minima autem dolorum ut hic
-              blanditiis doloribus architecto ipsum, sit aliquid ipsam
-              voluptatibus excepturi corrupti similique.
-            </p>
-          </>
+          <h2>Modal Data</h2>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime
+            nemo quae, dolorem molestias aliquam aut quia minima eos quis
+            sapiente unde veniam aliquid sequi saepe iste exercitationem,
+            nesciunt enim doloremque. Veritatis, quaerat! Beatae corrupti velit
+            officia aspernatur impedit nam mollitia laborum itaque totam
+            explicabo obcaecati, quidem dignissimos consectetur hic soluta, in
+            eaque enim possimus fuga? Numquam sint hic aut debitis nobis.
+            Doloremque magni laborum ab quidem velit maxime, neque quia.
+          </p>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Optio non,
+            incidunt neque delectus asperiores nam! Tenetur reprehenderit hic
+            eum quasi quia impedit veritatis laudantium facere optio odit
+            pariatur, quo corrupti ratione? Consectetur numquam aliquid cumque
+            ipsam repellat id ducimus, optio blanditiis maiores fuga eligendi
+            quia.
+          </p>
         </SimpleModal>
       </section>
     </main>
