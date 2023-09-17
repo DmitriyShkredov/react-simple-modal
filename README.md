@@ -2,7 +2,9 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-simple-modal/
 
-#### `Video:` https://youtu.be/2mAydfCKCB4
+#### `Youtube:` (Как создать Modal Component (Popup) в React | React Modal Component)[https://youtu.be/2mAydfCKCB4]
+
+#### `VK Video:` (Как создать Modal Component (Popup) в React | React Modal Component)[https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239034%2Fclub222570561%2Fpl_-222570561_-2]
 
 ---
 
